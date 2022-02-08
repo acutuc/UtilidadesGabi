@@ -1,11 +1,3 @@
-# Biblioteca-DDR-Java
-
-La biblioteca de Disco Duro de Roer, recopila todas las funciones realizadas en el canal y las mías propias de años de experiencia.
-
-Javadoc del proyecto. https://www.discoduroderoer.es/doc-biblioteca-ddr/
-
-Se dividen en varias secciones:
-
 ## Arrays 
 
 
